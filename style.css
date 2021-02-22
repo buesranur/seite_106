@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	font-size: 23px;
+	background-color: lightgrey;
+	padding: 50px;
+	text-align: left;
+	padding-left: 600px
+		
+}
+
+.blatt {
+	background-color: white;
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 350px; 
+	padding-bottom: 1500px;
+	width:1250px;
+	max-height: 810px;
+}
+
+
+
+.container1 {
+	background-color: white;
+	display: flex;
+	width: 1510px;
+	flex-direction: row
+	
+	
+}
+
+.ueberschrift {
+	background-color: white;
+	width: 950px;
+	height: 350px;
+	padding-left: 15px;
+	padding-top: 55px;
+	display: flex
+	
+}
+
+
+
+.container2 {
+	background-color: white;
+	display: flex;
+	width: 1500px;
+	flex-direction: row;
+}
+
+.unterueberschrift {
+	background-color: white;
+	width: 425px;
+	height: 250px;
+	margin: 15px;
+	display: flex;
+	
+}
+
+
+
+.container3 {
+	background-color: white;
+	display:flex;
+	width: 200px;
+	
+	flex-direction: row;
+}
+
+
+.bilder {
+	background-color: white;
+	width: 750px;
+	diplay: flex;
+	margin: 5px
+	
+}
+
+
+.container4 {
+	background-color: white;
+	display: flex;
+	width: 1500px;
+	flex-direction: row;
+}
+
+.fliesstext {
+	background-color: white;
+	width: 425px;
+	height: 100px;
+	margin: 15px;
+	display: flex;
+	
+}
+
+
+.container5 {
+	background-color: transparent;
+	display: flex;
+	width: 1530px;
+	height: 100px;
+	flex-direction: row
+}
+
+.seitenzahl {
+	position:absolute;
+	background-color: transparent;
+	width: 0px;
+	height: 100px;
+	diplay: flex;
+	padding-left: 1520px;
+	padding-top: 760px
+}
